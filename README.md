@@ -1,32 +1,30 @@
 # CodSoft Python Internship – June 2025
 
-This repository contains my task submissions for the **CodSoft Python Programming Internship (June 2025)**.
+This repo contains my task submissions for the **CodSoft Python Programming Internship**.  
+All tasks were done in **Google Colab** and synced with GitHub.
 
-## 📋 Tasks Completed
+## ✅ Completed Tasks
 
-### ✅ Task 2: Calculator
-A simple CLI calculator that performs:
+### Task 2: Calculator
+A basic calculator to perform:
 - Addition
 - Subtraction
 - Multiplication
 - Division  
-> **Language**: Python  
-> **Run**: `python calculator.py`
+📄 File: `Task2_Calculator.ipynb`
 
-### ✅ Task 3: Password Generator
-Generates strong and random passwords using:
-- Letters (upper/lower)
-- Digits
-- Special characters  
-> **Language**: Python  
-> **Run**: `python password_generator.py`
+---
 
-### ✅ Task 5: Contact Book
-A CLI-based contact manager where you can:
-- Add, view, search, update, and delete contacts  
-> **Language**: Python  
-> **Run**: `python contact_book.py`
+### Task 3: Password Generator
+Generates a secure password using:
+- Letters
+- Numbers
+- Symbols  
+📄 File: `Task3_PasswordGenerator.ipynb`
 
+---
 
-
-
+### Task 5: Contact Book
+A CLI-based contact book that can:
+- Add, view, search, update, delete contacts  
+📄 File: `Task5_ContactBook.ipynb`
