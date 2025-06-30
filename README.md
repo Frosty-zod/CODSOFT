@@ -1,6 +1,6 @@
 # CodSoft Python Internship – June 2025
 
-This repository contains my task submissions for the **CodSoft Python Programming Internship (June 2025)**.
+This repository contains my task submissions for the **CodSoft Python Programming Internship (July 2025)**.
 
 All three tasks are completed in a single **Google Colab notebook** named `Abhishek.ipynb`.
 
