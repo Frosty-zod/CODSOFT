@@ -1,4 +1,4 @@
-# CodSoft Python Internship – June 2025
+# CodSoft Python Internship – July 2025
 
 This repository contains my task submissions for the **CodSoft Python Programming Internship (July 2025)**.
 
