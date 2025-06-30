@@ -27,7 +27,6 @@ A CLI-based contact manager where you can:
 > **Language**: Python  
 > **Run**: `python contact_book.py`
 
-## 📂 Repository Structure
 
 
 
