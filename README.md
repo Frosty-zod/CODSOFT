@@ -11,7 +11,7 @@ A simple CLI calculator that performs:
 - Multiplication
 - Division  
 > **Language**: Python  
-> **Run**: 
+> **Run**: `python calculator.py`
 
 ### ✅ Task 3: Password Generator
 Generates strong and random passwords using:
@@ -19,13 +19,15 @@ Generates strong and random passwords using:
 - Digits
 - Special characters  
 > **Language**: Python  
-> **Run**: 
+> **Run**: `python password_generator.py`
 
 ### ✅ Task 5: Contact Book
 A CLI-based contact manager where you can:
 - Add, view, search, update, and delete contacts  
 > **Language**: Python  
-> **Run**: 
+> **Run**: `python contact_book.py`
 
-#
+## 📂 Repository Structure
+
+
 
